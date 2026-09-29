@@ -27,7 +27,7 @@ npx wrangler pages deploy . --project-name eminoworld --branch main
 Run from inside this folder.
 
 - **Build command:** none
-- **Build output directory:** `/` (the folder root)
+- **Build output directory:** `.` (the folder root)
 
 ## Notes
 - Keep `index.html` and `Home.dc.html` synchronized, and update page metadata and `sitemap.xml` when adding or renaming pages.
