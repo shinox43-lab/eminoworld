@@ -478,12 +478,12 @@ class Component extends DCLogic {
     const r2 = ['background17-1456x816.jpg', 'background20-1456x816.jpg', 'background25-1456x816.jpg', 'background27-1456x816.jpg', 'background-1456x816.jpg', 'background2-1456x816.jpg'];
     const r3 = ['background1-1456x816.jpg', 'background3-1456x816.jpg', 'background5-1456x816.jpg', 'background13-1456x816.jpg', 'background20-1456x816.jpg', 'background25-1456x816.jpg'];
     const services = [
-      { num: '01', en: 'Birth A Brand', zh: '品牌誕生', href: 'Service - Brand Birth.dc.html', img: A + 'background13-1456x816.jpg' },
-      { num: '02', en: 'Market Radiation', zh: '市場輻射', href: 'Service - Peddle Your Fair.dc.html', img: A + 'Mystery-Portrait-e1761377079421-680x350.jpg' },
-      { num: '03', en: 'Brand Localization', zh: '品牌在地化', href: 'Service - Brand Localization.dc.html', img: A + '906397521_optimized_1-680x350.jpeg' },
-      { num: '04', en: 'Brand Internationalization', zh: '品牌國際化', href: 'Service - Brand Internationalization.dc.html', img: A + 'Abstract-Fluid-Design-Chair-680x350.jpg' },
-      { num: '05', en: 'Brand Execution', zh: '品牌落地執行', href: 'Service - Brand Execution.dc.html', img: A + 'background17-1456x816.jpg' },
-      { num: '06', en: 'Management & Market-Entry Consulting', zh: '管理與市場進入顧問', href: 'Service - Management & Market-Entry Consulting.dc.html', img: A + 'background20-1456x816.jpg' }
+      { num: '01', en: 'Birth A Brand', zh: '品牌誕生', href: 'Service-Brand-Birth.dc.html', img: A + 'background13-1456x816.jpg' },
+      { num: '02', en: 'Market Radiation', zh: '市場輻射', href: 'Service-Peddle-Your-Fair.dc.html', img: A + 'Mystery-Portrait-e1761377079421-680x350.jpg' },
+      { num: '03', en: 'Brand Localization', zh: '品牌在地化', href: 'Service-Brand-Localization.dc.html', img: A + '906397521_optimized_1-680x350.jpeg' },
+      { num: '04', en: 'Brand Internationalization', zh: '品牌國際化', href: 'Service-Brand-Internationalization.dc.html', img: A + 'Abstract-Fluid-Design-Chair-680x350.jpg' },
+      { num: '05', en: 'Brand Execution', zh: '品牌落地執行', href: 'Service-Brand-Execution.dc.html', img: A + 'background17-1456x816.jpg' },
+      { num: '06', en: 'Management & Market-Entry Consulting', zh: '管理與市場進入顧問', href: 'Service-Management-Market-Entry-Consulting.dc.html', img: A + 'background20-1456x816.jpg' }
     ].map((s, i) => ({ ...s, title: zh ? s.zh : s.en, onEnter: () => this.onSvcEnter(i, s.img) }));
     return {
       mainRef: this.mainRef,

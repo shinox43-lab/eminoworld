@@ -6,7 +6,7 @@ Static bilingual (EN / 繁中) website built from plain HTML and JavaScript.
 - `index.html` — homepage; keep it synchronized with `Home.dc.html`
 - `Home / Services / About / Team / Contact` `.dc.html` — main pages
 - `Service - *.dc.html` — the six service detail pages
-- `Terms and Conditions.dc.html`, `Privacy Policy.dc.html` — legal pages
+- `Terms-and-Conditions.dc.html`, `Privacy-Policy.dc.html` — legal pages
 - `SiteFooter.dc.html` — shared footer, embedded by every page
 - `support.js` — runtime for the `.dc.html` components (required)
 - `image-slot.js` + `.image-slots.state.json` — team portrait handling
@@ -34,3 +34,5 @@ Run from inside this folder.
 - Fonts load from Google Fonts over the network.
 - Page files use the `.dc.html` extension and link to each other by that exact name — keep the filenames as-is.
 - Team portraits are baked into `assets/` and referenced directly, so they appear instantly. The drag-to-replace feature only works inside the design editor, not on the live site.
+
+Legacy space-containing page URLs are permanently redirected to the hyphenated slugs in `_redirects`.
