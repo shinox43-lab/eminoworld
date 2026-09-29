@@ -3,7 +3,7 @@
 Static bilingual (EN / 繁中) website built from plain HTML and JavaScript.
 
 ## Structure
-- `index.html` — homepage, synchronized from `Home.dc.html` by `postprocess.py`
+- `index.html` — homepage; keep it synchronized with `Home.dc.html`
 - `Home / Services / About / Team / Contact` `.dc.html` — main pages
 - `Service - *.dc.html` — the six service detail pages
 - `Terms and Conditions.dc.html`, `Privacy Policy.dc.html` — legal pages
@@ -30,7 +30,7 @@ Run from inside this folder.
 - **Build output directory:** `/` (the folder root)
 
 ## Notes
-- Run `postprocess.py` after editing source pages to refresh generated homepage, SEO metadata, and sitemap.
+- Keep `index.html` and `Home.dc.html` synchronized, and update page metadata and `sitemap.xml` when adding or renaming pages.
 - Fonts load from Google Fonts over the network.
 - Page files use the `.dc.html` extension and link to each other by that exact name — keep the filenames as-is.
 - Team portraits are baked into `assets/` and referenced directly, so they appear instantly. The drag-to-replace feature only works inside the design editor, not on the live site.
