@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://eminoworld.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://eminoworld.com/Services.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Service-Brand-Birth.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Service-Peddle-Your-Fair.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Service-Brand-Localization.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Service-Brand-Internationalization.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Service-Brand-Execution.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Service-Management-Market-Entry-Consulting.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Service-Brand-Birth.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Service-Peddle-Your-Fair.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Service-Brand-Localization.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Service-Brand-Internationalization.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Service-Brand-Execution.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Service-Management-Market-Entry-Consulting.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://eminoworld.com/About.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://eminoworld.com/Team.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://eminoworld.com/Contact.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Privacy-Policy.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://eminoworld.com/Terms-and-Conditions.dc.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Privacy-Policy.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eminoworld.com/Terms-and-Conditions.dc</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
